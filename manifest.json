@@ -1,0 +1,10 @@
+{
+  "name": "Skribbl Studio",
+  "short_name": "Skribbl",
+  "description": "A pixel-art drawing game for friends.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ef3c9e",
+  "theme_color": "#ef3c9e",
+  "icons": []
+}
